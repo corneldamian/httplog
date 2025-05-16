@@ -1,4 +1,4 @@
-module github.com/corneldamian/httplog/v2
+module github.com/corneldamian/httplog/v3
 
 go 1.21
 
